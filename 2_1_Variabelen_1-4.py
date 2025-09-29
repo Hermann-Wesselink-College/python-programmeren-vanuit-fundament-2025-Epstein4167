@@ -4,5 +4,5 @@ verzendkosten = 5
 print(verzendkosten)
 productcode = "A136i"
 print(productcode)
-prijs = 9,95
+prijs = 9.95
 print(prijs)
